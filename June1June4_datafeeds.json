@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&category_id=&brand=something-borrowed--velvet--zalora--zalora-sport--mango--dorothy-perkins--topshop--cln",
+    "Headline": "Fresh Picks",
+    "Subline": "Keep cool & look hot in our new arrivals",
+    "EventLabel": "TRE|Women|wnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/",
+    "Headline": "Brands We Love Up To 40% Off!",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|wspecialprice|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/996x500_NewArrivals_TheItList_Women.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=adidas--anello--birkenstock--dorothy-perkins--guess--havaianas--ivy-park--kamiseta--mango--melissa--nike--plains-prints--river-island--something-borrowed--superga--topshop--velvet--zalora",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wtheitlist|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_radiance_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=summer-radiance",
+    "Headline": "SUMMER RADIANCE",
+    "Subline": "Grab these beauty treats and get set for your next well-deserved holiday",
+    "EventLabel": "TRE|Women|wsummerradiance|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Romantic_Explorer_W_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=romantic-explorer",
+    "Headline": "ROMANTIC EXPLORER",
+    "Subline": "Soft volumes and tribal prints for a subdued but stylish look",
+    "EventLabel": "TRE|Women|wromanticexplorer|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Modern_Muse_W_620x420.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products/?sort=popularity&price=800-1499",
+    "Headline": "MODERN MUSE",
+    "Subline": "The latest selection of stylish dresses for less than P1,500",
+    "EventLabel": "CAT|Women|wmodernmuse|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Easy_Espadrilles_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/women/shoes/espadrilles/",
+    "Headline": "EASY ESPADRILLES",
+    "Subline": "From flats to wedges, these quintessential summer shoes look great with any outfit",
+    "EventLabel": "CAT|Women|weasyespadrilles|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Challenger_Your_Core_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "Challenge Your Core",
+    "Subline": "Check out these new sports gear that keeps you moving",
+    "EventLabel": "CAT|Women|wchallengeyourcore|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Elevated_Style_W_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=statement-heels",
+    "Headline": "ELEVATED STYLE",
+    "Subline": "Step up your shoe game with a bold pair of heels",
+    "EventLabel": "TRE|Women|welevatedstyle|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Something_Borrowed_W_20160526.jpg",
+    "Exit Url": "/women/something-borrowed/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wsomethingborrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CLN_W_20160526.jpg",
+    "Exit Url": "/women/cln/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wcln|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Adidas_Dsk_322x165_adidas_W.jpg",
+    "Exit Url": "/women/adidas/?getSKU=AD678AA00CCDPH--AD678AA38VNHPH--AD678AA37VNIPH",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wadidas|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Freeway_322x165_W_20160526.jpg",
+    "Exit Url": "/women/new-products/freeway",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wfreeway|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Casio_W_20160526.jpg",
+    "Exit Url": "/women/watches/casio",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wcasio|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HappySkin_W_20160526.jpg",
+    "Exit Url": "/women/beauty/happy-skin/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|whappyskin|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Watches_300x198.jpg",
+    "Exit Url": "/women/watches/analog-watches/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "BRA|Women|wwatches|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Sneakers_300x198.jpg",
+    "Exit Url": "/women/shoes/sneakers/",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "BRA|Women|wsneakers|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Jackets_375x500.jpg",
+    "Exit Url": "/women/clothing/jackets-vests/",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "BRA|Women|wjackets|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Eye_Make-up_300x198.jpg",
+    "Exit Url": "/women/beauty/eyes/",
+    "Headline": "Shop Eye Make-up >",
+    "Subline": "Shop Eye Make-up >",
+    "EventLabel": "BRA|Women|weyemakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Sports_Clothing_300x198.jpg",
+    "Exit Url": "/women/sports/sports-clothing/",
+    "Headline": "Shop Sports Clothing >",
+    "Subline": "Shop Sports Clothing >",
+    "EventLabel": "BRA|Women|wsportsclothing|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=adidas--asics--burton-menswear-london--esprit--havaianas--invicta--jansport--jaxon--onitsuka-tiger--topman--vans--zalora",
+    "Headline": "Fresh Picks",
+    "Subline": "Shop Now >",
+    "EventLabel": "TRE|Men|mnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/special-price/",
+    "Headline": "Brands We Love Up To 40% Off!",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Men|mspecialprice|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/June_LatestArrivals_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mjunelatesarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SuperFineTee_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=tshirt-on-sale",
+    "Headline": "Super Fine Tee",
+    "Subline": "Grab these t-shirts up to 50% off from your favorite brands",
+    "EventLabel": "CAT|Men|msuperfinetee|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_DiscoverNike_360x420.jpg",
+    "Exit Url": "/men/shoes/nike/?sort=latest%20arrival",
+    "Headline": "Discover Nike",
+    "Subline": "Grab these new shoes and beat the competition from start to finish",
+    "EventLabel": "BRA|Men|mdiscovernike|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/B1-6_322x165_M_20170526_River_Island.jpg",
+    "Exit Url": "/men/river-island/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mriverisland|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Adidas_Dsk_322x165_adidas.jpg",
+    "Exit Url": "/men/adidas/?getSKU=AD678AA48VMXPH--AD678AA46VMZPH--AD678AA45VNAPH--AD678AA42VNDPH",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|madidas|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/New_Balance_B_322x165_M_20170526.jpg",
+    "Exit Url": "/men/new-balance/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mnewbalance|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Wrangler_B1-6_322x165_M_20170526.jpg",
+    "Exit Url": "/men/wrangler/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mwrangler|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Casio_322x165_M_20170526.jpg",
+    "Exit Url": "/men/casio/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mcasio|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Featured_Brand_322x165_M_20170526_Sperry.png",
+    "Exit Url": "/men/sperry/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|msperry|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Tshirts_300x198_W_20170526.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?getSKU=HO422AA23GPKMY",
+    "Headline": "Shop T-shirts >",
+    "Subline": "Shop T-shirts >",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sneakers_300x198_W_20170526.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=EC876SH87ODCPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Jackets_375x500_W_20170526.jpg",
+    "Exit Url": "/men/clothing/jackets-vests/?getSKU=BU102AA47ZEEPH",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "CAT|Men|mjackets|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Bodybags_300x198_W_20170526.jpg",
+    "Exit Url": "/men/bags/body-bags/?getSKU=ES374AC81VFAMY",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Men|mbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Watches_300x198_W_20170526.jpg",
+    "Exit Url": "/men/watches/?getSKU=DA376AC06PTXMY",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Men|mwatches|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Web-Hero_600x600_NewArrivals_TheItList_Women.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&gender=women&category_id=&brand=adidas--anello--birkenstock--dorothy-perkins--guess--havaianas--ivy-park--kamiseta--mango--melissa--nike--plains-prints--river-island--something-borrowed--superga--topshop--velvet--zalora",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wtheitlist|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Romantic_Explorer_W_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=romantic-explorer",
+    "Headline": "ROMANTIC EXPLORER",
+    "Subline": "Soft volumes and tribal prints for a subdued but stylish look",
+    "EventLabel": "TRE|Women|wromanticexplorer|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_radiance_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=summer-radiance",
+    "Headline": "SUMMER RADIANCE",
+    "Subline": "Grab these beauty treats and get set for your next well-deserved holiday",
+    "EventLabel": "TRE|Women|wsummerradiance|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Watches_300x198.jpg",
+    "Exit Url": "/women/watches/analog-watches/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "BRA|Women|wwatches|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170519_Women_Jackets_300x198.jpg",
+    "Exit Url": "/women/clothing/jackets-vests/",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "BRA|Women|wjackets|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/June_LatestArrivals_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mjunelatesarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_DiscoverNike_620x420.jpg",
+    "Exit Url": "/men/shoes/nike/?sort=latest%20arrival",
+    "Headline": "Discover Nike",
+    "Subline": "Grab these new shoes and beat the competition from start to finish",
+    "EventLabel": "BRA|Men|mdiscovernike|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/SuperFineTee_N2-CU1-CU4_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=tshirt-on-sale",
+    "Headline": "Super Fine Tee",
+    "Subline": "Grab these t-shirts up to 50% off from your favorite brands",
+    "EventLabel": "CAT|Women|wsuperfinetee|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Tshirts_300x198_W_20170526.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?getSKU=HO422AA23GPKMY",
+    "Headline": "Shop T-shirts >",
+    "Subline": "Shop T-shirts >",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sneakers_300x198_W_20170526.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=EC876SH87ODCPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_SneakersFever_322x300.jpg",
+    "Exit Url": "/men/shoes/sneakers/",
+    "Headline": "Sneaker Fever",
+    "Subline": "Give your feet some love - be comfortable and effortlessly on trend",
+    "EventLabel": "CAT|Men|msneakersfever|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_Modern_Muse_322x300.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products/?sort=popularity&price=800-1499",
+    "Headline": "MODERN MUSE",
+    "Subline": "The latest selection of stylish dresses for less than P1,500",
+    "EventLabel": "CAT|Women|wmodernmuse|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_Elevated_Style_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=statement-heels",
+    "Headline": "ELEVATED STYLE",
+    "Subline": "Step up your shoe game with a bold pair of heels",
+    "EventLabel": "TRE|Women|welevatedstyle|ALL|NA"
+  }
+]
