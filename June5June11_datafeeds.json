@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&category_id=&brand=something-borrowed--velvet--zalora--zalora-sport--mango--dorothy-perkins--topshop--cln",
+    "Headline": "Fresh Picks",
+    "Subline": "Keep cool & look hot in our new arrivals",
+    "EventLabel": "TRE|Women|wnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/",
+    "Headline": "Brands We Love Up To 40% Off!",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|wspecialprice|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/All_Things_New_Under_P1200_Hero_996x500.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&price=1200-4000",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wnewarrivalsunderp1200|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Jansport_ZAP_N1_W_360x420.jpg",
+    "Exit Url": "/women/jansport/?sort=latest%20arrival",
+    "Headline": "JANSPORT NEW ARRIVALS",
+    "Subline": "Discover freedom and celebrate the great outdoors",
+    "EventLabel": "BRA|Women|wjansport|ALL|ZAP"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Romantic_Explorer_W_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=romantic-explorer",
+    "Headline": "ROMANTIC EXPLORER",
+    "Subline": "Soft volumes and tribal prints for a subdued but stylish look",
+    "EventLabel": "TRE|Women|wromanticexplorer|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170605_Hem_to_Heel_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=hem-to-heel",
+    "Headline": "HEM TO HEEL",
+    "Subline": "Stay fashion forward from day to night",
+    "EventLabel": "TRE|Women|whemtoheel|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Polish_Play_N1_W_360x420.jpg",
+    "Exit Url": "/women/beauty/nail-polish",
+    "Headline": "POLISH PLAY",
+    "Subline": "Slay effortlessly with nail polish shades that give your look a pop of color",
+    "EventLabel": "CAT|Women|wpolishplay|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Slip_And_Slide_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=slip-slide.",
+    "Headline": "SLIP & SLIDE",
+    "Subline": "Suit up or dress down in this season's most versatile shoe trend",
+    "EventLabel": "TRE|Women|wslipandslide|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Featured_Brand_Something_Borrowed.jpg",
+    "Exit Url": "/women/new-products/something-borrowed",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wsomethingborrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20160506_New_Balance_Women_B_322x165.jpg",
+    "Exit Url": "/women/new-balance",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wnewbalance|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Cover_Girl_Featured_Brand_322x165.jpg",
+    "Exit Url": "/women/beauty/covergirl",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA-SAL|Women|wcovergirl|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_No_Apologies_Featured_Brand_No_Apologies.jpg",
+    "Exit Url": "/women/no-apologies",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wnoapologies|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Featured_Brand_Birkenstock.jpg",
+    "Exit Url": "/women/shoes/birkenstock",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wbirkenstock|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Michaela_322x165.jpg",
+    "Exit Url": "/women/michaela/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wmichaela|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Bags_C1_-_300x198.jpg",
+    "Exit Url": "/women/bags/shoulder-bags/",
+    "Headline": "Shop Shoulder Bags >",
+    "Subline": "Shop Shoulder Bags >",
+    "EventLabel": "CAT|Women|wshoulderbag|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Earrings_C2_-_300x198.jpg",
+    "Exit Url": "/women/accessories/earrings",
+    "Headline": "Shop Earrings >",
+    "Subline": "Shop Earrings >",
+    "EventLabel": "CAT|Women|wearrings|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Tops_C3_-_375x500.jpg",
+    "Exit Url": "/women/clothing/tops",
+    "Headline": "Shop Tops >",
+    "Subline": "Shop Tops >",
+    "EventLabel": "CAT|Women|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Shoes_C4_-_300x198.jpg",
+    "Exit Url": "/women/shoes/flat-slide/",
+    "Headline": "Shop Slides >",
+    "Subline": "Shop Slides >",
+    "EventLabel": "CAT|Women|wslides|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Brows_C5_-_300x198.jpg",
+    "Exit Url": "/women/beauty/brows/?sort=latest%20arrival&dir=desc&gender=&category_id=5690",
+    "Headline": "Shop Brows >",
+    "Subline": "Shop Brows >",
+    "EventLabel": "CAT|Women|wbrows|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=adidas--asics--burton-menswear-london--esprit--havaianas--invicta--jansport--jaxon--onitsuka-tiger--topman--vans--zalora",
+    "Headline": "Fresh Picks",
+    "Subline": "Shop Now >",
+    "EventLabel": "TRE|Men|mnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/special-price/",
+    "Headline": "Brands We Love Up To 40% Off!",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Men|mspecialprice|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_NewArrivals_Under_P1200_996x500.jpg",
+    "Exit Url": "/men/new-products/?sort=popularity&price=1200-39874",
+    "Headline": "Best in Class",
+    "Subline": "Update your wardrobe with fresh pieces from P1,200",
+    "EventLabel": "TRE|Men|mnewarrivalsunderp1200|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_Jansport_Featured_Banner_M_360x420.jpg",
+    "Exit Url": "/men/jansport/?sort=latest%20arrival",
+    "Headline": "JANSPORT NEW ARRIVALS",
+    "Subline": "Discover freedom and celebrate the great outdoors",
+    "EventLabel": "BRA|Men|mjansport|ALL|ZAP"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Shirt-Season_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/clothing/shirts/all-products/?sort=popularity&dir=desc&gender=&category_id=101&brand=24-01--jaxon--zalora",
+    "Headline": "Shirt Season",
+    "Subline": "Slip on or button up - No fuss needed to style your perfect top",
+    "EventLabel": "CAT|Men|mshirtseason|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Dsk_322x165_jaxon.jpg",
+    "Exit Url": "/men/jaxon/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mjaxon|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Dsk_322x165_birkenstock.jpg",
+    "Exit Url": "/men/birkenstock/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mbirkenstock|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Dsk_322x165_skechers.jpg",
+    "Exit Url": "/men/skechers/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mskechers|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Dsk_322x165_onitsuka-tiger.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|monitsukatiger|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Parkland_322x165.jpg",
+    "Exit Url": "/men/parkland/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mparkland|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Featured_Brand_Ibarra.jpg",
+    "Exit Url": "/men/ibarra-watches/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mibarrawatches|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Tshirts_300x198.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?getSKU=HO422AA23GPKMY",
+    "Headline": "",
+    "Subline": "T-shirts",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Sneakers_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=EC876SH87ODCPH",
+    "Headline": "",
+    "Subline": "Sneakers",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Jackets_375x500.jpg",
+    "Exit Url": "/men/clothing/jackets-vests/?getSKU=BU102AA47ZEEPH",
+    "Headline": "",
+    "Subline": "Jackets",
+    "EventLabel": "CAT|Men|mjackets|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Bodybags_300x198.jpg",
+    "Exit Url": "/men/bags/body-bags/?getSKU=ES374AC81VFAMY",
+    "Headline": "",
+    "Subline": "Backpacks",
+    "EventLabel": "CAT|Men|mbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Watches_300x198.jpg",
+    "Exit Url": "/men/watches/?getSKU=DA376AC06PTXMY",
+    "Headline": "",
+    "Subline": "Watches",
+    "EventLabel": "CAT|Men|mwatches|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/All_Things_New_Under_P1200_Hero_Mobile_WebHero_600x600.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&price=1200-4000",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wnewarrivalsunderp1200|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Romantic_Explorer_W_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=romantic-explorer",
+    "Headline": "ROMANTIC EXPLORER",
+    "Subline": "Soft volumes and tribal prints for a subdued but stylish look",
+    "EventLabel": "TRE|Women|wromanticexplorer|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_Jansport_Featured_Banner_620x420_W.jpg",
+    "Exit Url": "/women/jansport/?sort=latest%20arrival",
+    "Headline": "JANSPORT NEW ARRIVALS",
+    "Subline": "Discover freedom and celebrate the great outdoors",
+    "EventLabel": "BRA|Women|wjansport|ALL|ZAP"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Tops_C3_-_300x198.jpg",
+    "Exit Url": "/women/clothing/tops",
+    "Headline": "Shop Tops >",
+    "Subline": "Shop Tops >",
+    "EventLabel": "CAT|Women|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Bags_C1_-_300x198.jpg",
+    "Exit Url": "/women/bags/shoulder-bags/",
+    "Headline": "Shop Shoulder Bags >",
+    "Subline": "Shop Shoulder Bags >",
+    "EventLabel": "CAT|Women|wshoulderbag|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_NewArrivals_Under_P1200_600x600.jpg",
+    "Exit Url": "/men/new-products/?sort=popularity&price=1200-39874",
+    "Headline": "Best in Class",
+    "Subline": "Update your wardrobe with fresh pieces from P1,200",
+    "EventLabel": "TRE|Women|mnewarrivalsunderp1200|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Shirt-Season_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/clothing/shirts/all-products/?sort=popularity&dir=desc&gender=&category_id=101&brand=24-01--jaxon--zalora",
+    "Headline": "Shirt Season",
+    "Subline": "Slip on or button up - No fuss needed to style your perfect top",
+    "EventLabel": "CAT|Men|mshirtseason|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_Jansport_Featured_Banner_620x420_M.jpg",
+    "Exit Url": "/men/jansport/?sort=latest%20arrival",
+    "Headline": "JANSPORT NEW ARRIVALS",
+    "Subline": "Discover freedom and celebrate the great outdoors",
+    "EventLabel": "BRA|Men|mjansport|ALL|ZAP"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Tshirts_300x198.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?getSKU=HO422AA23GPKMY",
+    "Headline": "",
+    "Subline": "T-shirts",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_M_Sneakers_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=EC876SH87ODCPH",
+    "Headline": "",
+    "Subline": "Sneakers",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HomepageBottom_AllThingsNew.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&price=1200-4000",
+    "Headline": "All Things New",
+    "Subline": "Under P1200",
+    "EventLabel": "TRE|Women|wnewarrivalsunderp1200|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170605_Hem_to_Heel_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=hem-to-heel",
+    "Headline": "HEM TO HEEL",
+    "Subline": "Stay fashion forward from day to night",
+    "EventLabel": "TRE|Women|whemtoheel|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_322x300_W_Challenge_core.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "Challenge Your Core",
+    "Subline": "Check out these new sports gear that keeps you moving",
+    "EventLabel": "CAT|Women|wchallengeyourcore|ALL|NA"
+  }
+]
