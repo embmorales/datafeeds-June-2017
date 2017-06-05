@@ -83,11 +83,11 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Challenger_Your_Core_N1-CU2-CU3_360x420.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "Challenge Your Core",
+    "Subline": "Check out these new sports gear that keeps you moving",
+    "EventLabel": "CAT|Women|wchallengeyourcore|ALL|NA"
   },
   {
     "Placement": "wcu4",
