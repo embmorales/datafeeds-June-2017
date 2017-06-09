@@ -43,11 +43,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Jansport_ZAP_N1_W_360x420.jpg",
-    "Exit Url": "/women/jansport/?sort=latest%20arrival",
-    "Headline": "JANSPORT NEW ARRIVALS",
-    "Subline": "Discover freedom and celebrate the great outdoors",
-    "EventLabel": "BRA|Women|wjansport|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Frill_Seeker_w_360x420.jpg",
+    "Exit Url": "/women/clothing/tops/?q=ruffles&classifier=false&SearchSuggest=true&gender=women",
+    "Headline": "FRILL SEEKER",
+    "Subline": "Embrace the frilled life with these ruffled pieces",
+    "EventLabel": "TRE|Women|wfrillseeker|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_Jansport_Featured_Banner_620x420_W.jpg",
-    "Exit Url": "/women/jansport/?sort=latest%20arrival",
-    "Headline": "JANSPORT NEW ARRIVALS",
-    "Subline": "Discover freedom and celebrate the great outdoors",
-    "EventLabel": "BRA|Women|wjansport|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Frill_Seeker_w_620x420.jpg",
+    "Exit Url": "/women/clothing/tops/?q=ruffles&classifier=false&SearchSuggest=true&gender=women",
+    "Headline": "FRILL SEEKER",
+    "Subline": "Embrace the frilled life with these ruffled pieces",
+    "EventLabel": "TRE|Women|wfrillseeker|ALL|NA"
   },
   {
     "Placement": "wc1",
