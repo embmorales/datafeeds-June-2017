@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/",
+    "Headline": "SALE Up To 40% Off!",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|wspecialprice|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_996x500_1.jpg",
+    "Exit Url": "/women/all-products/?vc=free18",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Frill_Seeker_w_360x420.jpg",
+    "Exit Url": "/women/clothing/tops/?q=ruffles&classifier=false&SearchSuggest=true&gender=women",
+    "Headline": "FRILL SEEKER",
+    "Subline": "Embrace the frilled life with these ruffled pieces",
+    "EventLabel": "TRE|Women|wfrillseeker|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_ModernEdge.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=modern-edge",
+    "Headline": "MODERN EDGE BY TRESEMME",
+    "Subline": "Rule this runway look with fringed and edgy pieces. Pair with Tresemme products that will give you a bit of volume with edgy flatiron waves",
+    "EventLabel": "BRA|Women|wtresemmemodernedge|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_All_The_Details_CU1_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=embroidery",
+    "Headline": "ALL IN THE DETAILS",
+    "Subline": "Breathe life into your wardrobe with these embroidered pieces",
+    "EventLabel": "TRE|Women|wallinthedetails|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Native_Launch_w_360x420.jpg",
+    "Exit Url": "/women/native/",
+    "Headline": "Native Shoes",
+    "Subline": "Our picks for the sand, sun, and surf. Perfect footwear for your vacation destination",
+    "EventLabel": "BRA|Women|wnativeshoeslaunch|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Celeteque_w_ZAP_CU2.jpg",
+    "Exit Url": "/women/beauty/celeteque/",
+    "Headline": "THINK + BEAUTIFUL WITH CELETEQUE",
+    "Subline": "Skincare for smart beauty",
+    "EventLabel": "BRA|Women|wceleteque|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Top_Class_N2-CU1-CU4_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=top-class",
+    "Headline": "TOP CLASS",
+    "Subline": "Get a head start with these school essentials",
+    "EventLabel": "TRE|Women|wtopclass|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_W_322X165_Something_Borrowed.jpg",
+    "Exit Url": "/women/something-borrowed/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wsomethingborrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_W_322X165_Melissa.jpg",
+    "Exit Url": "/women/shoes/melissa/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wmelissa|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_Featured_Brand_322x165_K-Pakette.jpg",
+    "Exit Url": "/women/beauty/k-palette",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wkpalette|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_W_322X165_Joe_Fresh_W.jpg",
+    "Exit Url": "/women/joe-fresh/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wjoefresh|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_W_322X165_Doughnut.jpg",
+    "Exit Url": "/women/doughnut/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wdoughnut|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_W-Dsk_322x165_fila.jpg",
+    "Exit Url": "/women/fila/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wfila|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Bags_C1_-_300x198.jpg",
+    "Exit Url": "/women/bags/shoulder-bags/",
+    "Headline": "Shop Shoulder Bags >",
+    "Subline": "Shop Shoulder Bags >",
+    "EventLabel": "CAT|Women|wshoulderbag|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Earrings_C2_-_300x198.jpg",
+    "Exit Url": "/women/accessories/earrings",
+    "Headline": "Shop Earrings >",
+    "Subline": "Shop Earrings >",
+    "EventLabel": "CAT|Women|wearrings|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Tops_C3_-_375x500.jpg",
+    "Exit Url": "/women/clothing/tops",
+    "Headline": "Shop Tops >",
+    "Subline": "Shop Tops >",
+    "EventLabel": "CAT|Women|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Shoes_C4_-_300x198.jpg",
+    "Exit Url": "/women/shoes/flat-slide/",
+    "Headline": "Shop Slides >",
+    "Subline": "Shop Slides >",
+    "EventLabel": "CAT|Women|wslides|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Brows_C5_-_300x198.jpg",
+    "Exit Url": "/women/beauty/brows/?sort=latest%20arrival&dir=desc&gender=&category_id=5690",
+    "Headline": "Shop Brows >",
+    "Subline": "Shop Brows >",
+    "EventLabel": "CAT|Women|wbrows|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/special-price/",
+    "Headline": "SALE Up To 40% Off!",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Men|mspecialprice|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_996x500_1.jpg",
+    "Exit Url": "/men/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Native_Launch_m_360x420.jpg",
+    "Exit Url": "/men/native/",
+    "Headline": "Native Shoes",
+    "Subline": "Our picks for the sand, sun, and surf. Perfect footwear for your vacation destination",
+    "EventLabel": "BRA|Men|mnativeshoeslaunch|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/TimelessBasics_N2.jpg",
+    "Exit Url": "/men/trends/normcore/",
+    "Headline": "Timeless Basics",
+    "Subline": "Simplify your outfit down to the very last detail",
+    "EventLabel": "TRE|Men|mtimelessbasics|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/201706_Factorie_m_B1-6_322x165.jpg",
+    "Exit Url": "/men/factorie/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mfactorie|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/201706_m_Dsk_322x165_italianos.jpg",
+    "Exit Url": "/men/italianos/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mitalianos|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_B1-6_322x165_maserati.jpg",
+    "Exit Url": "/men/maserati/",
+    "Headline": "Maserati",
+    "Subline": "",
+    "EventLabel": "BRA|Men|mmaserati|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_M_322X165_Joe_Fresh_M.jpg",
+    "Exit Url": "/men/joe-fresh/",
+    "Headline": "Joe Fresh",
+    "Subline": "",
+    "EventLabel": "BRA|Men|mjoefresh|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_Featured_Brand_Casio.jpg",
+    "Exit Url": "/men/casio/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mcasio|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/201706_m_Dsk_322x165_organic.jpg",
+    "Exit Url": "/men/organic/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|organic|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_Jeans_300x198.jpg",
+    "Exit Url": "/men/clothing/jeans/?getSKU=MA449AA86BENMY",
+    "Headline": "Shop Jeans",
+    "Subline": "Shop Jeans",
+    "EventLabel": "CAT|Men|mjeans|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_Wallets_300x198.jpg",
+    "Exit Url": "/men/accessories/wallets/?getSKU=LU545AC47WDKMY",
+    "Headline": "Shop Wallets",
+    "Subline": "Shop Wallets",
+    "EventLabel": "CAT|Men|mwallets|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_Tshirts_375x500.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?getSKU=JA987AA96EXFMY",
+    "Headline": "Shop T-shirts",
+    "Subline": "Shop T-shirts",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_Backpacks_300x198.jpg",
+    "Exit Url": "/men/bags/backpacks/?getSKU=ES374AC37UKOMY",
+    "Headline": "Shop Backpacks",
+    "Subline": "Shop Backpacks",
+    "EventLabel": "CAT|Men|mbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_SportsShoes_300x198.jpg",
+    "Exit Url": "/men/sports/sports-footwear/?getSKU=NE652SH21XQSPH",
+    "Headline": "Shop Sports Shoes >",
+    "Subline": "Shop Sports Shoes >",
+    "EventLabel": "CAT|Men|msportsshoes|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_700x200.gif",
+    "Exit Url": "/women/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_600X600.jpg",
+    "Exit Url": "/women/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_ModernEdge.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=modern-edge",
+    "Headline": "MODERN EDGE BY TRESEMME",
+    "Subline": "Rule this runway look with fringed and edgy pieces. Pair with Tresemme products that will give you a bit of volume with edgy flatiron waves",
+    "EventLabel": "BRA|Women|wtresemmemodernedge|ALL|ZAP"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Celeteque_w_ZAP_NCU2.jpg",
+    "Exit Url": "/women/beauty/celeteque/",
+    "Headline": "THINK + BEAUTIFUL WITH CELETEQUE",
+    "Subline": "Skincare for smart beauty",
+    "EventLabel": "BRA|Women|wceleteque|ALL|ZAP"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Tops_C3_-_300x198.jpg",
+    "Exit Url": "/women/clothing/tops",
+    "Headline": "Shop Tops >",
+    "Subline": "Shop Tops >",
+    "EventLabel": "CAT|Women|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170602_W_Bags_C1_-_300x198.jpg",
+    "Exit Url": "/women/bags/shoulder-bags/",
+    "Headline": "Shop Shoulder Bags >",
+    "Subline": "Shop Shoulder Bags >",
+    "EventLabel": "CAT|Women|wshoulderbag|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_700x200.gif",
+    "Exit Url": "/men/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_600X600.jpg",
+    "Exit Url": "/men/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/TimelessBasics_N2.jpg",
+    "Exit Url": "/men/trends/normcore/",
+    "Headline": "Timeless Basics",
+    "Subline": "Simplify your outfit down to the very last detail",
+    "EventLabel": "TRE|Men|mtimelessbasics|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Native_Launch_m_620x420.jpg",
+    "Exit Url": "/men/native/",
+    "Headline": "Native Shoes",
+    "Subline": "Our picks for the sand, sun, and surf. Perfect footwear for your vacation destination",
+    "EventLabel": "BRA|Men|mnativeshoeslaunch|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_Jeans_300x198.jpg",
+    "Exit Url": "/men/clothing/jeans/?getSKU=MA449AA86BENMY",
+    "Headline": "Shop Jeans",
+    "Subline": "Shop Jeans",
+    "EventLabel": "CAT|Men|mjeans|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170609_M_Wallets_300x198.jpg",
+    "Exit Url": "/men/accessories/wallets/?getSKU=LU545AC47WDKMY",
+    "Headline": "Shop Wallets",
+    "Subline": "Shop Wallets",
+    "EventLabel": "CAT|Men|mwallets|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_996x500_HP.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Unisex|homepageheroindependencedaysale|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_322x300_1.jpg",
+    "Exit Url": "/all-products/?vc=free18",
+    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
+    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
+    "EventLabel": "SAL|Unisex|windepedencedaysale18off|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_All_The_Details_HP_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=embroidery",
+    "Headline": "ALL IN THE DETAILS",
+    "Subline": "Breathe life into your wardrobe with these embroidered pieces",
+    "EventLabel": "TRE|Women|wallinthedetails|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_lp_hp_322x300.jpg",
+    "Exit Url": "/men/fathers-day",
+    "Headline": "Father's Day Gift Guide",
+    "Subline": "Shop the special selection of gifts designed for dads",
+    "EventLabel": "RET|Men|mfathersday|ALL|NA"
+  }
+]
