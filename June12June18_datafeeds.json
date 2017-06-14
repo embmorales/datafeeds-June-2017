@@ -14,10 +14,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&page=1&gender=women&category_id=&brand=sunnydaysweety--mango--sleek-makeup--birkenstock--jansport--bench--rubi--esprit--kamiseta--nyx-professional-make-up--herschel--cln--topshop--max-factor--happy-skin--something-borrowed--plains-prints--missguided--river-island--adidas--velvet--wallis--sesura--zalora--dorothy-perkins",
+    "Headline": "New Season, New Style",
+    "Subline": "The key pieces to own from your most loved brands",
+    "EventLabel": "SAL|Women|wnewseasonnewstyle|ALL|NA"
   },
   {
     "Placement": "wsr1",
@@ -33,21 +33,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_996x500_1.jpg",
-    "Exit Url": "/women/all-products/?vc=free18",
+    "Image": "https://static-ph.zacdn.com/cms/DY/NewSeason_NewStyle_segment_hero_996x500.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&page=1&gender=women&category_id=&brand=sunnydaysweety--mango--sleek-makeup--birkenstock--jansport--bench--rubi--esprit--kamiseta--nyx-professional-make-up--herschel--cln--topshop--max-factor--happy-skin--something-borrowed--plains-prints--missguided--river-island--adidas--velvet--wallis--sesura--zalora--dorothy-perkins",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+    "EventLabel": "SAL|Women|wnewseasonnewstyle|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Frill_Seeker_w_360x420.jpg",
-    "Exit Url": "/women/clothing/tops/?q=ruffles&classifier=false&SearchSuggest=true&gender=women",
-    "Headline": "FRILL SEEKER",
-    "Subline": "Embrace the frilled life with these ruffled pieces",
-    "EventLabel": "TRE|Women|wfrillseeker|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/360x420_W_Keds_Minnie_Mouse.jpg",
+    "Exit Url": "/women/shoes/keds/?sort=latest%20arrival",
+    "Headline": "KEDS MINNIE MOUSE COLLECTION",
+    "Subline": "A collection inspired by one of our favorite leading ladies - available only on ZALORA",
+    "EventLabel": "BRA|Women|wkedsminniemouse|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -224,10 +224,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+    "Exit Url": "/fathers-day/",
+    "Headline": "Father's Day Gift Guide",
+    "Subline": "Shop the special selection of gifts designed for dads",
+    "EventLabel": "RET|Men|mfathersday|ALL|NA"
   },
   {
     "Placement": "msr1",
@@ -243,21 +243,21 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_996x500_1.jpg",
-    "Exit Url": "/men/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_Statement_M_SEGMENT_HERO_MOCKUP_996x500.jpg",
+    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=-solid--abercrombie-fitch--adidas--aeropostale--birkenstock--esprit--factorie--jack-jones--jansport--jaxon--maldita-man--new-balance--nike--onitsuka-tiger--river-island--timberland--zalora",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|msumerstatement|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Native_Launch_m_360x420.jpg",
-    "Exit Url": "/men/native/",
-    "Headline": "Native Shoes",
-    "Subline": "Our picks for the sand, sun, and surf. Perfect footwear for your vacation destination",
-    "EventLabel": "BRA|Men|mnativeshoeslaunch|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Fathers_day_360x420.jpg",
+    "Exit Url": "/fathers-day/",
+    "Headline": "Father's Day Gift Guide",
+    "Subline": "Shop the special selection of gifts designed for dads",
+    "EventLabel": "RET|Men|mfathersday|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -383,21 +383,21 @@
     "Placement": "ws1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_700x200.gif",
-    "Exit Url": "/women/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/NewSeason_NewStyle_mobileweb_skinny_700x200.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&page=1&gender=women&category_id=&brand=sunnydaysweety--mango--sleek-makeup--birkenstock--jansport--bench--rubi--esprit--kamiseta--nyx-professional-make-up--herschel--cln--topshop--max-factor--happy-skin--something-borrowed--plains-prints--missguided--river-island--adidas--velvet--wallis--sesura--zalora--dorothy-perkins",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wnewseasonnewstyle|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_600X600.jpg",
-    "Exit Url": "/women/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Women|windepedencedaysale18off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/NewSeason_NewStyle_mobileweb_hero_600x600.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&page=1&gender=women&category_id=&brand=sunnydaysweety--mango--sleek-makeup--birkenstock--jansport--bench--rubi--esprit--kamiseta--nyx-professional-make-up--herschel--cln--topshop--max-factor--happy-skin--something-borrowed--plains-prints--missguided--river-island--adidas--velvet--wallis--sesura--zalora--dorothy-perkins",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|wnewseasonnewstyle|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -443,21 +443,21 @@
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_700x200.gif",
-    "Exit Url": "/men/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_Statement_M_700x200.gif",
+    "Exit Url": "/fathers-day/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Men|mfathersday|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_600X600.jpg",
-    "Exit Url": "/men/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Men|mindepedencedaysale18off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_Statement_M_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=-solid--abercrombie-fitch--adidas--aeropostale--birkenstock--esprit--factorie--jack-jones--jansport--jaxon--maldita-man--new-balance--nike--onitsuka-tiger--river-island--timberland--zalora",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|msumerstatement|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -503,21 +503,21 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_996x500_HP.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Unisex|homepageheroindependencedaysale|ALL|NA"
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
   },
   {
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Independence_Sale_322x300_1.jpg",
-    "Exit Url": "/all-products/?vc=free18",
-    "Headline": "Independence Day Sale! Enjoy 18% Off - Use Code: FREE18",
-    "Subline": "Min. spend P2,000. Ends June 13, 12:00 noon",
-    "EventLabel": "SAL|Unisex|windepedencedaysale18off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/NewSeason_NewStyle_HP_322x300.jpg",
+    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&page=1&gender=women&category_id=&brand=sunnydaysweety--mango--sleek-makeup--birkenstock--jansport--bench--rubi--esprit--kamiseta--nyx-professional-make-up--herschel--cln--topshop--max-factor--happy-skin--something-borrowed--plains-prints--missguided--river-island--adidas--velvet--wallis--sesura--zalora--dorothy-perkins",
+    "Headline": "New Season, New Style",
+    "Subline": "The key pieces to own from your most loved brands",
+    "EventLabel": "SAL|Women|wnewseasonnewstyle|ALL|NA"
   },
   {
     "Placement": "ub2",
