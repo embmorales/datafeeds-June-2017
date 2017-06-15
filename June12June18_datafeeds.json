@@ -224,10 +224,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/fathers-day/",
-    "Headline": "Father's Day Gift Guide",
-    "Subline": "Shop the special selection of gifts designed for dads",
-    "EventLabel": "RET|Men|mfathersday|ALL|NA"
+    "Exit Url": "/men/all-products/?vc=dad18",
+    "Headline": "Father's Day Sale! 18% Off - Use code: DAD18",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   },
   {
     "Placement": "msr1",
@@ -243,11 +243,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_Statement_M_SEGMENT_HERO_MOCKUP_996x500.jpg",
-    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=-solid--abercrombie-fitch--adidas--aeropostale--birkenstock--esprit--factorie--jack-jones--jansport--jaxon--maldita-man--new-balance--nike--onitsuka-tiger--river-island--timberland--zalora",
+    "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_m_vc_segment_hero_996x500.jpg",
+    "Exit Url": "/men/all-products/?vc=dad18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|msumerstatement|ALL|NA"
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -443,21 +443,21 @@
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_Statement_M_700x200.gif",
-    "Exit Url": "/fathers-day/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_m_vc_mobileweb_skinnyGIF_700x200.gif",
+    "Exit Url": "/men/all-products/?vc=dad18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Men|mfathersday|ALL|NA"
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Summer_Statement_M_MOBILEWEB_HERO_600x600.jpg",
-    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=-solid--abercrombie-fitch--adidas--aeropostale--birkenstock--esprit--factorie--jack-jones--jansport--jaxon--maldita-man--new-balance--nike--onitsuka-tiger--river-island--timberland--zalora",
+    "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_m_vc_mobileweb_hero_600x600.jpg",
+    "Exit Url": "/men/all-products/?vc=dad18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|msumerstatement|ALL|NA"
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   },
   {
     "Placement": "mn1",
