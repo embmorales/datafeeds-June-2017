@@ -103,11 +103,11 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170617_W_322X165_Something_Borrowed.jpg",
-    "Exit Url": "/women/something-borrowed/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cotton_On_FeaturedBrand_322x165_W.jpg",
+    "Exit Url": "/women/cotton-on/new-products",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|wsomethingborrowed|ALL|NA"
+    "EventLabel": "BRA|Women|wcottonon|ALL|NA"
   },
   {
     "Placement": "wfb2",
@@ -323,11 +323,11 @@
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/201706_m_Dsk_322x165_organic.jpg",
-    "Exit Url": "/men/organic/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Cotton_On_FeaturedBrand_322x165_M.jpg",
+    "Exit Url": "/men/cotton-on/new-products",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|organic|ALL|NA"
+    "EventLabel": "BRA|Men|mcottonon|ALL|NA"
   },
   {
     "Placement": "mc1",
