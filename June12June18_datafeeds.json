@@ -53,11 +53,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_ModernEdge.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=modern-edge",
-    "Headline": "MODERN EDGE BY TRESEMME",
-    "Subline": "Rule this runway look with fringed and edgy pieces. Pair with Tresemme products that will give you a bit of volume with edgy flatiron waves",
-    "EventLabel": "BRA|Women|wtresemmemodernedge|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Statement_Stripes_W_620x420.jpg",
+    "Exit Url": "/women/trends/pinstripes",
+    "Headline": "STATEMENT STRIPES",
+    "Subline": "Own the streets with our striped picks",
+    "EventLabel": "TRE|Women|wpinstripes|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -403,11 +403,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_Tresseme_ZAP_ModernEdge.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=modern-edge",
-    "Headline": "MODERN EDGE BY TRESEMME",
-    "Subline": "Rule this runway look with fringed and edgy pieces. Pair with Tresemme products that will give you a bit of volume with edgy flatiron waves",
-    "EventLabel": "BRA|Women|wtresemmemodernedge|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Statement_Stripes_W_620x420.jpg",
+    "Exit Url": "/women/trends/pinstripes",
+    "Headline": "STATEMENT STRIPES",
+    "Subline": "Own the streets with our striped picks",
+    "EventLabel": "TRE|Women|wpinstripes|ALL|NA"
   },
   {
     "Placement": "wn2",
