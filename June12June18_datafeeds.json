@@ -33,11 +33,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/NewSeason_NewStyle_segment_hero_996x500.jpg",
-    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&page=1&gender=women&category_id=&brand=sunnydaysweety--mango--sleek-makeup--birkenstock--jansport--bench--rubi--esprit--kamiseta--nyx-professional-make-up--herschel--cln--topshop--max-factor--happy-skin--something-borrowed--plains-prints--missguided--river-island--adidas--velvet--wallis--sesura--zalora--dorothy-perkins",
+    "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_m_vc_segment_hero_996x500.jpg",
+    "Exit Url": "/men/all-products/?vc=dad18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wnewseasonnewstyle|ALL|NA"
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -63,21 +63,21 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_All_The_Details_CU1_620x420.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=embroidery",
-    "Headline": "ALL IN THE DETAILS",
-    "Subline": "Breathe life into your wardrobe with these embroidered pieces",
-    "EventLabel": "TRE|Women|wallinthedetails|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_m_vc_N2.jpg",
+    "Exit Url": "/men/all-products/?vc=dad18",
+    "Headline": "Father's Day Sale! Get 18% Off!",
+    "Subline": "Use code: DAD18. Min. spend of P1,500. Ends June 19,12 noon. Applicable to men's items only",
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Native_Launch_w_360x420.jpg",
-    "Exit Url": "/women/native/",
-    "Headline": "Native Shoes",
-    "Subline": "Our picks for the sand, sun, and surf. Perfect footwear for your vacation destination",
-    "EventLabel": "BRA|Women|wnativeshoeslaunch|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Belo_Beauty_ZAP_W_360x420.jpg",
+    "Exit Url": "/women/belo/?sort=latest%20arrival",
+    "Headline": "BEAUTY FROM WITHIN WITH BELO",
+    "Subline": "Whitening and Anti-Aging in one pill",
+    "EventLabel": "BRA|Women|wbelobeautyfromwithin|ALL|ZAP"
   },
   {
     "Placement": "wcu3",
@@ -393,11 +393,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/NewSeason_NewStyle_mobileweb_hero_600x600.jpg",
-    "Exit Url": "/women/new-products/?sort=popularity&dir=desc&page=1&gender=women&category_id=&brand=sunnydaysweety--mango--sleek-makeup--birkenstock--jansport--bench--rubi--esprit--kamiseta--nyx-professional-make-up--herschel--cln--topshop--max-factor--happy-skin--something-borrowed--plains-prints--missguided--river-island--adidas--velvet--wallis--sesura--zalora--dorothy-perkins",
+    "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_m_vc_mobileweb_hero_600x600.jpg",
+    "Exit Url": "/men/all-products/?vc=dad18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|wnewseasonnewstyle|ALL|NA"
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Celeteque_w_ZAP_NCU2.jpg",
-    "Exit Url": "/women/beauty/celeteque/",
-    "Headline": "THINK + BEAUTIFUL WITH CELETEQUE",
-    "Subline": "Skincare for smart beauty",
-    "EventLabel": "BRA|Women|wceleteque|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Belo_Beauty_ZAP_W_620x420.jpg",
+    "Exit Url": "/women/belo/?sort=latest%20arrival",
+    "Headline": "BEAUTY FROM WITHIN WITH BELO",
+    "Subline": "Whitening and Anti-Aging in one pill",
+    "EventLabel": "BRA|Women|wbelobeautyfromwithin|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -535,8 +535,8 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/fathersday_lp_hp_322x300.jpg",
     "Exit Url": "/fathers-day",
-    "Headline": "Father's Day Gift Guide",
-    "Subline": "Shop the special selection of gifts designed for dads",
-    "EventLabel": "RET|Men|mfathersday|ALL|NA"
+    "Headline": "Father's Day Sale! Get 18% Off!",
+    "Subline": "Use code: DAD18. Min. spend of P1,500. Ends June 19,12 noon. Applicable to men's items only",
+    "EventLabel": "SAL|Men|mfathersdayVC|ALL|NA"
   }
 ]
