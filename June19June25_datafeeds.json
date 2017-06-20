@@ -5,7 +5,7 @@
     "Device": "desktop",
     "Image": "NA",
     "Exit Url": "NA",
-    "Headline": "NA",s
+    "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA"
   },
@@ -453,11 +453,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_M_SEGMENT_HERO_SLICED_600x600.jpg",
-    "Exit Url": "/men/special-price/?discount=1-60",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_VC_Great18_600x600_Mobile.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eoss-great18off&vc=GREAT18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meossupto60off|ALL|NA"
+    "EventLabel": "SAL|Women|weossvc18off|ALL|NA"
   },
   {
     "Placement": "mn1",
