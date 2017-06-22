@@ -123,11 +123,11 @@
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_W_SomethingBorrowed_322x165.jpg",
-    "Exit Url": "/women/something-borrowed/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Mango_W_322x165.jpg",
+    "Exit Url": "/women/mango/special-price",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weosssomethingborrowed|ALL|NA"
+    "EventLabel": "SAL|Women|weossmango|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -283,11 +283,11 @@
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_Ego_322x165.jpg",
-    "Exit Url": "/men/ego/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Mango_M_322x165.jpg",
+    "Exit Url": "/men/mango-man/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|meossego|ALL|NA"
+    "EventLabel": "BRA|Men|meossmangoman|ALL|NA"
   },
   {
     "Placement": "mfb3",
