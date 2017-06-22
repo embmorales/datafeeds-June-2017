@@ -263,11 +263,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Huga_M_ZAP_N2_620x420_huga.jpg",
-    "Exit Url": "/men/huga/",
-    "Headline": "Huga: Now on ZALORA",
-    "Subline": "Every guy's favorite tees and basic essentials",
-    "EventLabel": "BRA|Men|mhuga|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_RPL_Footwear_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=rplfootwear-bags",
+    "Headline": "Shoes and Bags Up to 60% Off",
+    "Subline": "No outfit is complete without some additions fromour in-house labels",
+    "EventLabel": "SAL|Men|meossrplshoesbags|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -463,11 +463,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Huga_M_ZAP_N2_620x420_huga.jpg",
-    "Exit Url": "/men/huga/",
-    "Headline": "Huga: Now on ZALORA",
-    "Subline": "Every guy's favorite tees and basic essentials",
-    "EventLabel": "BRA|Men|mhuga|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_RPL_Footwear_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=rplfootwear-bags",
+    "Headline": "Shoes and Bags Up to 60% Off",
+    "Subline": "No outfit is complete without some additions fromour in-house labels",
+    "EventLabel": "SAL|Men|meossrplshoesbags|ALL|NA"
   },
   {
     "Placement": "mn2",
