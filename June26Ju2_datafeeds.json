@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?cmpgn_five=rpl699",
+    "Headline": "Everything at P699, Buy 2 Get 20% off",
+    "Subline": "Ends July 2, 11:59PM<br>Valid only on item in this page",
+    "EventLabel": "SAL|Women|weossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/special-price/?sort=popularity&price=100-1499",
+    "Headline": "EVERYTHING BELOW P1,500",
+    "Subline": "Shop this season's hottest trends at prices that won't break the bank",
+    "EventLabel": "SAL|Women|weosseverythingatp1500|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/RPL_Bundle_Get_20off_W_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=rpl699",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Everything_at_1500_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=100-1499",
+    "Headline": "EVERYTHING BELOW P1,500",
+    "Subline": "Shop this season's hottest trends at prices that won't break the bank",
+    "EventLabel": "SAL|Women|weosseverythingatp1500|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Calvin_Klein_W_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/calvin-klein/",
+    "Headline": "Calvin Klein: Now on Zalora",
+    "Subline": "Shop the latest styles, featuring modern staples + redefined",
+    "EventLabel": "SAL|Women|weosscalvinkleinlaunch|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_Factorie_W_FB_322x165.jpg",
+    "Exit Url": "/women/special-price/factorie",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|weossfactorie|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_CottonOn_W_FB_322x165.jpg",
+    "Exit Url": "/women/special-price/cotton-on",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|weosscottonon|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_Lipault_W_FB_322x165.jpg",
+    "Exit Url": "/women/bags/special-price/lipault",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|weosslipault|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_CLN_W_FB_322x165.jpg",
+    "Exit Url": "/women/special-price/cln/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|weosscln|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_Nike_W_FB_322x165.jpg",
+    "Exit Url": "/women/sports/special-price/nike",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|weossnike|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_Fureddo_W_FB_322x165.jpg",
+    "Exit Url": "/women/fureddo/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|weossfurredo|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_W_Flats_300x198.jpg",
+    "Exit Url": "/women/shoes/flats/special-price/",
+    "Headline": "Shop Flats >",
+    "Subline": "Shop Flats >",
+    "EventLabel": "SAL-CAT|Women|weossflats|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_W_Skirts_300x198.jpg",
+    "Exit Url": "/women/clothing/skirts/special-price/",
+    "Headline": "Shop Skirts >",
+    "Subline": "Shop Skirts >",
+    "EventLabel": "SAL-CAT|Women|weossskirts|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_W_Jackets_375x500.jpg",
+    "Exit Url": "/women/clothing/jackets-vests/special-price/",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "SAL-CAT|Women|weossjackets|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_W_Watches_300x198.jpg",
+    "Exit Url": "/women/women-watches/special-price/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "SAL-CAT|Women|weosswatches|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_W_Sports_300x198.jpg",
+    "Exit Url": "/women/sports/special-price/",
+    "Headline": "Shop Sports >",
+    "Subline": "Shop Sports >",
+    "EventLabel": "SAL-CAT|Women|weosssports|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/special-price/?sort=popularity&price=50-1000",
+    "Headline": "EVERYTHING BELOW P1,000",
+    "Subline": "Shop now >",
+    "EventLabel": "SAL|Men|meosseverythingat1000|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_five=rpl699",
+    "Headline": "Everything at P699, Buy 2 Get 20% off",
+    "Subline": "Ends July 2, 11:59PM. Valid only on item in this page",
+    "EventLabel": "SAL|Men|meossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Calvin_Klein_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/calvin-klein/",
+    "Headline": "Calvin Klein: Now on Zalora",
+    "Subline": "Shop the latest styles, featuring modern staples + redefined",
+    "EventLabel": "SAL|Men|meosscalvinkleinlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Top_Seller_Brands_Up_to_60off_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=eoss-topbrands",
+    "Headline": "Top Sellers Up to 60% off",
+    "Subline": "Update your wardrobe with only the best from Mango Man, Esprit, Hollister and more",
+    "EventLabel": "SAL|Men|meosstopbrandsupto60off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/N2_620x420_RPL_Buy2get20off_M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=rpl699",
+    "Headline": "Everything at P699, Buy 2 Get 20% off",
+    "Subline": "Ends July 3, 12NN. Valid only on item in this page",
+    "EventLabel": "SAL|Men|meossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Nike_M_FB_322x165.jpg",
+    "Exit Url": "/men/special-price/nike/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|meossnike|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Levis_M_FB_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/levi-s/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|meosslevis|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Superdry_M_FB_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/superdry/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|meosssuperdry|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Timberland_M_FB_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/timberland/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|meosstimberland|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_ZALORA_M_FB_322x165.jpg",
+    "Exit Url": "/men/special-price/zalora/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|meosszalora|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Maserati_M_FB_B1-6_322x165.jpg",
+    "Exit Url": "/men/special-price/maserati/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Men|meossmaserati|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_M_Jeans_300x198.jpg",
+    "Exit Url": "/men/clothing/jeans/special-price/",
+    "Headline": "Shop Jeans >",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "SAL-CAT|Men|meossjeans|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_M_Wallets_300x198.jpg",
+    "Exit Url": "/men/accessories/wallets/special-price/",
+    "Headline": "Shop Wallets >",
+    "Subline": "Shop Wallets >",
+    "EventLabel": "SAL-CAT|Men|meosswallets|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_M_JacketsMen_375x500.jpg",
+    "Exit Url": "/men/clothing/jackets-vests/special-price/",
+    "Headline": "Shop Jackets >",
+    "Subline": "Shop Jackets >",
+    "EventLabel": "SAL-CAT|Men|meossjackets|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_M_Sports_300x198.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "Shop Sports >",
+    "Subline": "Shop Sports >",
+    "EventLabel": "SAL-CAT|Men|meosssports|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_M_Body_Bags_300x198.jpg",
+    "Exit Url": "/men/bags/body-bags/special-price/",
+    "Headline": "Shop Body Bags >",
+    "Subline": "Shop Body Bags >",
+    "EventLabel": "SAL-CAT|Men|meossbodybags|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/RPL_buy2get20off_700x200.gif",
+    "Exit Url": "/women/all-products/?cmpgn_five=rpl699",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/RPL_Bundle_Get_20off_W_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=rpl699",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Calvin_Klein_W_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/calvin-klein/",
+    "Headline": "Calvin Klein: Now on Zalora",
+    "Subline": "Shop the latest styles, featuring modern staples + redefined",
+    "EventLabel": "SAL|Women|weosscalvinkleinlaunch|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Everything_at_1500_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=100-1499",
+    "Headline": "EVERYTHING BELOW P1,500",
+    "Subline": "Shop this season's hottest trends at prices that won't break the bank",
+    "EventLabel": "SAL|Women|weosseverythingatp1500|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_W_Flats_300x198.jpg",
+    "Exit Url": "/women/shoes/flats/special-price/",
+    "Headline": "Shop Flats >",
+    "Subline": "Shop Flats >",
+    "EventLabel": "SAL-CAT|Women|weossflats|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_W_Skirts_300x198.jpg",
+    "Exit Url": "/women/clothing/skirts/special-price/",
+    "Headline": "Shop Skirts >",
+    "Subline": "Shop Skirts >",
+    "EventLabel": "SAL-CAT|Women|weossskirts|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Top_Seller_Brands_Up_to_60off_mobileweb_skinnyGIF_700x200.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=eoss-topbrands",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meosstopbrandsupto60off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Calvin_Klein_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/calvin-klein/",
+    "Headline": "Calvin Klein: Now on Zalora",
+    "Subline": "Shop the latest styles, featuring modern staples + redefined",
+    "EventLabel": "SAL|Men|meosscalvinkleinlaunch|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_buy2_get20off_N2_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=rpl699",
+    "Headline": "Everything at P699, Buy 2 Get 20% off",
+    "Subline": "Ends July 2, 11:59PM. Valid only on item in this page",
+    "EventLabel": "SAL|Men|meossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Top_Seller_Brands_Up_to_60off_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=eoss-topbrands",
+    "Headline": "Top Sellers Up to 60% off",
+    "Subline": "Update your wardrobe with only the best from Mango Man, Esprit, Hollister and more",
+    "EventLabel": "SAL|Men|meosstopbrandsupto60off|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_M_Jeans_300x198.jpg",
+    "Exit Url": "/men/clothing/jeans/special-price/",
+    "Headline": "Shop Jeans >",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "SAL-CAT|Men|meossjeans|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170623_M_Wallets_300x198.jpg",
+    "Exit Url": "/men/accessories/wallets/special-price/",
+    "Headline": "Shop Wallets >",
+    "Subline": "Shop Wallets >",
+    "EventLabel": "SAL-CAT|Men|meosswallets|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_UpTo60off_Homepage_Hero_996x500.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Everything_at_1500_homepage-banner_322x300.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=100-1499",
+    "Headline": "EVERYTHING BELOW P1,500",
+    "Subline": "Shop this season's hottest trends at prices that won't break the bank",
+    "EventLabel": "SAL|Women|weosseverythingatp1500|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Unisex_buy2_get20off_N2_322x300_GN.jpg",
+    "Exit Url": "/all-products/?cmpgn_five=rpl699",
+    "Headline": "Everything at P699, Buy 2 Get 20% off",
+    "Subline": "Ends July 2, 11:59PM<br>Valid only on item in this page",
+    "EventLabel": "SAL|Women|weossrplbundlebuy699get20off|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Top_Seller_Brands_Up_to_60off_HP_322x300.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=eoss-topbrands",
+    "Headline": "Top Sellers Up to 60% off",
+    "Subline": "Update your wardrobe with only the best from Mango Man, Esprit, Hollister and more",
+    "EventLabel": "SAL|Men|meosstopbrandsupto60off|ALL|NA"
+  }
+]
